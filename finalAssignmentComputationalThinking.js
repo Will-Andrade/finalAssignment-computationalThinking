@@ -9,6 +9,8 @@
   - Utilizando o navegador de seu computador: https://www.youtube.com/watch?v=WpBauFe597o
 
   - Utilizando uma extensão do VS Code chamada Code Runner: https://www.youtube.com/watch?v=WVyM-U3eu08
+
+  - Abrindo o seguinte link: https://github.com/Will-Andrade/finalAssignment-computationalThinking do repositório da atividade no GitHub, e em seguida apertando a tecla ".". Assim, o arquivo será aberto num editor de texto online para visualização e edição!
   
   - Copiar tudo, colar e rodar dentro de uma ferramenta de code sandbox como:
     -- Codesandbox.io, https://codesandbox.io/s/
